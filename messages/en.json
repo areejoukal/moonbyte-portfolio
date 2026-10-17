@@ -1,0 +1,237 @@
+{
+  "Metadata": {
+    "title": "Moonbyte — Ideas Start Here | Next-Gen Digital Studio",
+    "description": "We turn raw observations into living websites, immersive spatial experiences, and durable digital artifacts engineered for the next era.",
+    "ogTitle": "Moonbyte — Ideas Start Here",
+    "ogDescription": "We turn raw observations into living websites, immersive spatial experiences, and durable digital worlds engineered for the next era.",
+    "twitterTitle": "Moonbyte — Ideas Start Here",
+    "twitterDescription": "Digital craft, immersive web design, and high-performance engineering."
+  },
+  "Nav": {
+    "world": "WORLD",
+    "crew": "CREW",
+    "build": "BUILD",
+    "projects": "PROJECTS",
+    "contact": "CONTACT",
+    "enterWorld": "ENTER THE WORLD",
+    "startProject": "START A PROJECT"
+  },
+  "Hero": {
+    "badge": "DIGITAL ARCHITECTURE & IMMERSIVE WORLDS",
+    "titlePart1": "IDEAS START",
+    "titleHighlight": "HERE.",
+    "subtitle": "We turn raw abstractions into living websites, immersive spatial experiences, and durable digital worlds engineered for the next era.",
+    "exploreButton": "EXPLORE THE WORLD",
+    "crewCardBadge": "THE CREW BEHIND THE WORLD",
+    "crewCardTitle": "Four minds. One universe.",
+    "crewCardSubtitle": "We combine UX/UI, frontend, backend, and security to turn ideas into digital experiences.",
+    "meetCrewButton": "MEET THE CREW"
+  },
+  "Universe": {
+    "title": "THE MOONBYTE UNIVERSE",
+    "subtitle": "A deliberate architectural ecosystem where each outpost powers a specialized dimension of modern computation.",
+    "cards": {
+      "moonbase": {
+        "loc": "LOC // 01",
+        "title": "MOONBASE",
+        "subtitle": "CENTRAL COMMAND & STRATEGY",
+        "description": "Strategic discovery, brand vision mapping, and digital foundation architecture defining every project trajectory."
+      },
+      "byte-district": {
+        "loc": "LOC // 02",
+        "title": "BYTE DISTRICT",
+        "subtitle": "HAUTE-COUTURE INTERFACES",
+        "description": "Poetic spatial UI, typography-first art direction, and micro-delight aesthetics that command global recognition."
+      },
+      "crew-station": {
+        "loc": "LOC // 03",
+        "title": "CREW STATION",
+        "subtitle": "MULTIDISCIPLINARY COLLECTIVE",
+        "description": "The living laboratory where four hyper-specialized engineers and designers synchronize daily operations."
+      },
+      "launch-pad": {
+        "loc": "LOC // 04",
+        "title": "LAUNCH PAD",
+        "subtitle": "HIGH-PERFORMANCE DEPLOYMENT",
+        "description": "Automated CI/CD pipelines, edge caching, real-time telemetry, and resilient micro-architectures built for scale.",
+        "stat1Label": "UPTIME METRIC",
+        "stat1Value": "99.99%",
+        "stat2Label": "LATENCY",
+        "stat2Value": "14ms"
+      },
+      "signal-center": {
+        "loc": "LOC // 05",
+        "title": "SIGNAL CENTER",
+        "subtitle": "GLOBAL CLIENT HYPERLINK",
+        "description": "Direct telemetry uplink bridging visionary enterprises to our active production studio."
+      }
+    }
+  },
+  "Crew": {
+    "title": "MEET THE CREW",
+    "subtitle": "The minds navigating the threshold between raw concept and hyperspace fidelity.",
+    "members": {
+      "riwaa": {
+        "name": "RIWAA",
+        "role": "THE GUARDIAN",
+        "description": "Security & Team Manager. Ensuring structural integrity, zero vulnerability vectors, and operational discipline across all digital transmissions."
+      },
+      "yousef": {
+        "name": "YOUSEF",
+        "role": "THE CREATOR",
+        "description": "UX/UI Designer. Crafting poetic spatial interfaces, atmospheric layouts, and typographic cadence that mesmerize audiences."
+      },
+      "ayman": {
+        "name": "AYMAN",
+        "role": "THE BUILDER",
+        "description": "Frontend Developer. Translating complex kinetic motion, fluid mechanics, and micro-interactions into lightweight 60fps code."
+      },
+      "areej": {
+        "name": "AREEJ",
+        "role": "THE ARCHITECT",
+        "description": "Backend Developer. Architecting resilient distributed engines, reactive event buses, and sub-millisecond cloud infrastructures."
+      }
+    }
+  },
+  "WhatWeBuild": {
+    "title": "WHAT WE BUILD",
+    "subtitle": "Engineered for international brands and boundary-pushing founders demanding unforgettable digital authority.",
+    "services": {
+      "business-websites": {
+        "number": "01",
+        "title": "BUSINESS WEBSITES",
+        "description": "Flagship corporate platforms engineered with mathematical precision, corporate authority, and headless CMS mastery.",
+        "features": [
+          "Custom Architecture",
+          "Multi-Region CDN",
+          "Enterprise SEO Matrix"
+        ]
+      },
+      "portfolio-websites": {
+        "number": "02",
+        "title": "PORTFOLIO WEBSITES",
+        "description": "Expressive, museum-grade portfolio exhibitions for pioneering architects, luxury designers, and world-class visionaries.",
+        "features": [
+          "Kinetic Typography",
+          "Fluid Transition Engines",
+          "Curated Media Galleries"
+        ]
+      },
+      "landing-pages": {
+        "number": "03",
+        "title": "LANDING PAGES",
+        "description": "High-velocity, narrative-driven conversion vehicles designed for hyper-growth venture launches and category kings.",
+        "features": [
+          "Narrative Scrolltelling",
+          "99+ Core Web Vitals",
+          "Frictionless Flow Analytics"
+        ]
+      },
+      "custom-experiences": {
+        "number": "04",
+        "title": "CUSTOM EXPERIENCES",
+        "description": "Immersive WebGL simulations, real-time spatial 3D environments, and audio reactive interactive installations.",
+        "features": [
+          "Three.js / GLSL Shaders",
+          "Real-time 3D Viewports",
+          "Generative Audio Nodes"
+        ]
+      }
+    }
+  },
+  "Portfolio": {
+    "title": "THINGS WE’VE BROUGHT TO LIFE",
+    "subtitle": "Selected digital artifacts deployed into the global matrix with unmatched fidelity.",
+    "projects": {
+      "onos": {
+        "title": "ONOS",
+        "category": "Food Delivery System",
+        "description": "A seamless food delivery experience connecting customers, drivers, and restaurants.",
+        "badge": "MOBILE APP",
+        "ctaText": "VIEW CASE"
+      },
+      "carads-plus": {
+        "title": "CarAds Plus",
+        "category": "Marketplace App",
+        "description": "A modern marketplace experience for buying and renting cars with ease.",
+        "badge": "MOBILE APP",
+        "ctaText": "VIEW CASE"
+      },
+      "ra-one": {
+        "title": "RA-One",
+        "category": "Business Website",
+        "description": "A bilingual digital experience designed to bring a modern brand to life.",
+        "badge": "WEBSITE",
+        "ctaText": "VIEW CASE"
+      }
+    }
+  },
+  "Manifesto": {
+    "topLabel": "THE MOONBYTE MANIFESTO",
+    "quote": "“EVERY ARTIFACT BEGINS AS AN IMPOSSIBLE SIGNAL IN THE VOID.”",
+    "philosophyPart1": "We don't just design interfaces or build websites.",
+    "philosophyPart2": "We turn ideas into thoughtful digital experiences — combining design, technology, and imagination to create products people remember.",
+    "tagline1": "DESIGN • TECHNOLOGY • IMAGINATION",
+    "tagline2": "MOONBYTE — WHERE IDEAS COME TO LIFE."
+  },
+  "Contact": {
+    "headlinePart1": "Have an idea? Let’s bring",
+    "headlinePart2": "it to life. Tell us what",
+    "headlinePart3": "you’re imagining...",
+    "subtitle": "Tell us what you're imagining, and the MOONBYTE crew will help turn it into a digital experience.",
+    "info": {
+      "emailTitle": "Email",
+      "emailSubtitle": "Drop us a line anytime",
+      "phoneTitle": "Phone",
+      "addressTitle": "Address",
+      "addressValue": "Palestine Street, Gaza, Palestine",
+      "hoursTitle": "Working Hours",
+      "hoursValue": "Usually Within 24 Hours",
+      "hoursSubtitle": "Your message matters"
+    },
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Example: Yousef Samy",
+      "email": "Email Address",
+      "emailPlaceholder": "Example: example@email.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Example: +970 59-770-5019",
+      "projectType": "Project Type",
+      "projectTypePlaceholder": "Example: E-commerce Dash or SaaS Redesign",
+      "message": "Message",
+      "messagePlaceholder": "Example: I have a great idea for an app or website and I need expert consultation on UI/UX design and development to bring this idea to life.",
+      "submitButton": "Send The Idea",
+      "successTitle": "Transmission Received!",
+      "successMessage": "Our crew will review your idea and get in touch within 24 hours.",
+      "anotherButton": "SEND ANOTHER IDEA"
+    }
+  },
+  "Footer": {
+    "tagline": "Where ideas come to life.",
+    "description": "A digital studio creating websites, experiences, and digital worlds.",
+    "exploreTitle": "EXPLORE",
+    "navWorld": "WORLD",
+    "navCrew": "CREW",
+    "navWhatWeBuild": "WHAT WE BUILD",
+    "navProjects": "PROJECTS",
+    "navContact": "CONTACT",
+    "universeTitle": "THE UNIVERSE",
+    "followTitle": "FOLLOW THE SIGNAL",
+    "copyright": "© 2026 MOONBYTE. ALL RIGHTS RESERVED.",
+    "coordinates": "LAT 35.6764° N // HYPERSPACE",
+    "madeWith": "MADE WITH CURIOSITY."
+  },
+  "Loading": {
+    "text": "INITIATING MOONBYTE TELEMETRY..."
+  },
+  "Error": {
+    "title": "Signal Interrupted",
+    "description": "An unexpected variance occurred in orbital telemetry. You can attempt to re-establish the connection.",
+    "retry": "RETRY TRANSMISSION"
+  },
+  "LanguageSwitcher": {
+    "label": "Language",
+    "switchLocale": "العربية",
+    "currentLocale": "EN"
+  }
+}
